@@ -1,0 +1,10 @@
+{
+  "name": "Gemini CLI Add-on by ItsCharged",
+  "url": "https://github.com/ItsCharged/hass-gemini-cli-addon",
+  "maintainer": "ItsCharged",
+  "addons": [
+    {
+      "slug": "gemini_cli_agent"
+    }
+  ]
+}
